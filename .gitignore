@@ -6,3 +6,6 @@
 
 # Ignoring what rust builds
 target
+
+# Ignoring inputs as requested by AoC rules
+input.txt

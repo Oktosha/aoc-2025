@@ -1,0 +1,8 @@
+# Mac Os thing
+.DS_Store
+
+# Ignoring Rust Rover settings
+.idea
+
+# Ignoring what rust builds
+target
